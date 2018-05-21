@@ -8,11 +8,11 @@ order: 3
 
 I love books! Here are some I'm reading now:
 
-1. Carolyn Mcculley: *Feminilidade Radical*
-2. Jonathan Edwards: *A vida de David Brainerd*
+1. Margot Lee Shetterly: *Estrelas além do Tempo*
+2. R.C. Sproul: *Somos Todos Teológos*
 3. Isaías Lima: *Inteligência Artificial*
-4. Pedro Domingos: *O Algoritmo Mestre*
-5. Margot Lee Shetterly: *Estrelas além do Tempo*
+4. Luis Felipe Pondé: *Filosofia para corajosos*
+5. Pedro Domingos: *O Algoritmo Mestre*
 
 
 <!-- source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books) -->
