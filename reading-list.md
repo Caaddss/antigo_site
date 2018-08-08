@@ -8,10 +8,10 @@ order: 5
 
 I love books! Here are some I'm reading now:
 
-1. Margot Lee Shetterly: *Estrelas além do Tempo*
-2. R.C. Sproul: *Somos Todos Teológos*
-3. Isaías Lima: *Inteligência Artificial*
-4. Luis Felipe Pondé: *Filosofia para corajosos*
+1. Caleb Doxsey: *Introdução à Linguagem Go*
+2. Wes McKinney: *Python para análise de dados*
+3. Margot Lee Shetterly: *Estrelas além do Tempo*
+4. Isaías Lima: *Inteligência Artificial* 
 5. Pedro Domingos: *O Algoritmo Mestre*
 
 
