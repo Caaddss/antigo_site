@@ -58,7 +58,7 @@ twitter_url: https://twitter.com/_caaddss
 
 
 # Google Analytics Tracking ID goes here:
-google_analytics:UA-141224934-1
+google_analytics: UA-141224934-1
 
 # The following settings are NECESSARY for the Prologue theme to run:
 #theme: jekyll-theme-prologue
