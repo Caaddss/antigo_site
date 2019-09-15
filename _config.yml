@@ -63,3 +63,5 @@ google_analytics: UA-141224934-1
 # The following settings are NECESSARY for the Prologue theme to run:
 #theme: jekyll-theme-prologue
 collections: [sections]
+
+theme: jekyll-theme-cayman
