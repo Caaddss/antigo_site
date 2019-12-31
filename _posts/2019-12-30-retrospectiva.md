@@ -56,7 +56,7 @@ Conheci pessoas incríveis esse ano, que me ajudaram demais a crescer, não só 
 
 Saldo do ano:
     
-    Um ano trabalhando como Cientista de Dados
+    Um ano trabalhando como Cientista de Dados Jr
     Novos amigos
     Vou iniciar 2020, como Cientista de Dados III, pois fui promovida
     Com os frutos do meu trabalho comprei meu primeiro carro
