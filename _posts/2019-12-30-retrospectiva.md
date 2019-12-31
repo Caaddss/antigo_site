@@ -58,7 +58,7 @@ Saldo do ano:
     
     Um ano trabalhando como Cientista de Dados Jr
     Novos amigos
-    Vou iniciar 2020, como Cientista de Dados III, pois fui promovida
+    Vou iniciar 2020, como Cientista de Dados Pleno, pois fui promovida
     Com os frutos do meu trabalho comprei meu primeiro carro
 
 Então, tenha fé, isso vai além de religião, as coisas podem e vão melhorar. Esteja preparado para o que pode vir, tudo bem se você não estiver bem para isso ainda, uma hora você vai estar, respeite o seu tempo e os seus limites. Mas não negligencie o seu tratamento, não estou dizendo que é fácil, mas é importante, principalmente ajuda terapêutica, com um psicologo. O tratamento vai além dos remédios, você precisa tratar as feridas, isso dói, mas cicatriza, um dia você vai olhar as marcas e ter orgulho porque elas só lembrarão o quão forte você foi e é.
